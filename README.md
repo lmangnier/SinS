@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+# Statistics in Sciences
 
-You can use the [editor on GitHub](https://github.com/lmangnier/SinS/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Why this Blog ?
+No one ignores that we vent through a global pandemic these last few years, unreavelling striking discrepancies between what people think and what people really know in terms of Sciences. Thus, as a bio-statistician (I am currently a Post-Doc in Stats Gen at the Bloomberg School of Public Healt at the John Hopkins University) , I found that it is necessary to provide materials to a large audience to better understand **How Sciences work** and **What is the role of Statistics in Sciences ?** Moreover, this blog will be the opportunity to invite experts from different areas to give their opinions in order to have the as large as possible picture of Sciences.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
