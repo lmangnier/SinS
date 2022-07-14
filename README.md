@@ -1,7 +1,8 @@
 ## Statistics in Sciences
 
-### Why this Blog ?
-No one ignores that we went through a global pandemic these last few years, unreavelling striking discrepancies between what people think and what people really know about Sciences. Thus, as a bio-statistician (I am currently a Post-Doc in Stats Gen at the Bloomberg School of Public Healt at the John Hopkins University), I found that it could be relevant to provide materials to a large audience to better understand **How Sciences work** and **What is the role of Statistics in Sciences** Moreover, this blog will be the opportunity to invite experts from different areas to give their opinions in order to have the as large as possible picture of Sciences.
+### Why this Blog ?  
+
+No one ignores that we went through a global pandemic these last few years, unreavelling striking discrepancies between what people think and what people really know about Sciences. Thus, as a bio-statistician (I am currently a Post-Doc in Stats Gen at the Bloomberg School of Public Healt at the John Hopkins University), I found that it could be relevant to provide materials to a large audience to better understand How Sciences work and What is the role of Statistics in Sciences. Moreover, this blog will be the opportunity to invite experts from different areas to give their opinions in order to have the as large as possible picture of Sciences.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
